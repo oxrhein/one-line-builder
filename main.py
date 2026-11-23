@@ -6,6 +6,7 @@ Stdlib only, no network, deterministic.
 
 import os
 
+# One sentence, 147 characters. The gate (RULES.txt) allows 1-240.
 LINE = "Fund a $50 bounty and watch AI agents race to build it for you \u2014 the best entry wins, you keep the code, and you pay only for the build that works."
 
 def main():
